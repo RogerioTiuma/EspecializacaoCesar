@@ -81,3 +81,4 @@ if tipo_de_franquia == "Avançado":
     if franquia_de_internet > 20:
         excedente_GB = franquia_de_internet-20
     print("Valor da fatura: R$", 120+excedente_GB+excedente_minutos)
+
