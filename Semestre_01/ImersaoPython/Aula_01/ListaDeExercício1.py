@@ -42,7 +42,45 @@ valor_total = float(input("Digite o valor total: "))
 
 comissao = float(input("Digite o percentual da comissao: "))
 
-print("Valor da Comissão: ", (valor_total*comissao)/100)"""
+print("Valor da Comissão: ", (valor_total*comissao)/100)
+
+
+6. Dado um raio r e calcule e mostre a área de um círculo.
+
+raio = int(input("Forneça o valor do raio:"))
+Area = 3.14*(raio**2)
+
+print("Área do círculo: ", Area)
+
+7. Escreva um programa que leia o custo de produção de um produto e seu preço de
+venda. Calcule e mostre o lucro bruto obtido na venda do produto.
+
+custo_de_producao = int(input("Qual o valor do custo de produção? "))
+lucro_bruto = int(input("Qual o valor do lucro bruto? "))
+
+print("Lucro Bruto: R$", lucro_bruto-custo_de_producao)
+
+8. Converta uma temperatura em graus Celsius C para Fahrenheit F.
+temperatura_celsius = int(input("Informe a temperatura em celsius para transformar em Fahrenheit F: "))
+F = 9/5*temperatura_celsius+32
+print(f"{temperatura_celsius} graus Celsius é {F} graus Fahrenheit.")
+
+9. Peça ao usuário para inserir o valor de um produto e a taxa de imposto aplicada sobre
+ele. Calcule e mostre o valor final do produto com o imposto.
+
+valor_do_produto = float(input("Informe o valor do produto:"))
+taxa_de_imposto = float(input("Informe a taxa: "))
+print("Valor Final com Imposto: R$", valor_do_produto*(1+taxa_de_imposto/100))
+
+10. Peça ao usuário para inserir o valor total de uma compra e o número de parcelas
+desejadas. Calcule e mostre o valor de cada parcela, considerando que não há juros.
+
+valor_total = float(input("Informe o valor total da compra:"))
+numero_de_parcelas = int(input("Informe a quantidade de parcelas que deseja:"))
+valor_de_parcelas = valor_total/numero_de_parcelas
+
+print("Valor de cada parcela: R$", valor_de_parcelas)"""
+
 
 
 
