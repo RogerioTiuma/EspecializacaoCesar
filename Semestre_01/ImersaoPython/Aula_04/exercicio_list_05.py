@@ -3,8 +3,7 @@ nome = " "
 venda = 0.0
 nomes = []
 vendas = []
-maior_venda = 0.0
-menor_venda = 0.0
+
 i = 0
 j = 0
 
