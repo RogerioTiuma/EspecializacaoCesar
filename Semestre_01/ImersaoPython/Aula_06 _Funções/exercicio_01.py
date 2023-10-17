@@ -12,15 +12,17 @@ i = 0
 
 n = int(input("Informe o número de cores que dejesa inserir: "))
 
-for i in n:
+for i in range(n):
     cor = input("Qual o valor da cor? ")
     red = input("Qual o número referente ao RED? ")
     green = input("Qual o número referente ao GREEN? ")
     blue = input("Qual o número referente ao BLUE? ")
 
-    lista_RGB_unit.append(cor)
-    lista_RGB_unit.append(red)
-    lista_RGB_unit.append(green)
-    lista_RGB_unit.append(blue)
+    lista_RGB_unit = [cor, red, green, blue]
+    lista_RGB.append(lista_RGB_unit)
 
-print(lista_RGB_unit)
+print(lista_RGB)
+
+RGB = (lista_RGB)
+
+print(RGB)
