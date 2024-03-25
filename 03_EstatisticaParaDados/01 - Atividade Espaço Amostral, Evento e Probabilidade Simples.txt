@@ -1,0 +1,57 @@
+﻿Probabilidade e Estatística
+Atividade Espaço Amostral, Evento e Probabilidade
+Prof. Everton Dias
+
+
+
+
+1. Determine a probabilidade de cada evento:
+
+
+a) um número par aparece no lançamento de um dado não viciado;
+b) um rei aparece ao extrair-se uma carta de um baralho;
+c) pelo menos uma cara aparece no lançamento de 3 moedas;
+d) pelo menos uma cara aparece no lançamento de “n” moedas;
+e) duas copas aparecem ao retirarem-se duas cartas de um baralho.
+
+
+2. Um número inteiro é escolhido aleatoriamente dentre os números 1, 2, 3, …, 50. Qual a probabilidade de:
+
+
+a) o número ser divisível por 5;
+b) terminar em 3;
+c) ser primo;
+d) ser divisível por 6 ou 8.
+
+
+3. Qual a probabilidade de sair um rei ou uma carta de copas, quando retiramos uma carta de um baralho?
+
+
+4. Dois dados são lançados simultaneamente. Qual a probabilidade de:
+
+
+a) a soma ser menor que 4;
+b) a soma ser 9;
+c) o primeiro resultado ser maior do que o segundo.
+
+
+5. Numa urna são misturadas dez bolas numeradas de 1 a 10. Duas bolas são retiradas (a,b) sem reposição. Qual a probabilidade de a + b  = 10?
+
+
+6. Um lote é formado por 10 peças boas, 4 com defeitos e duas com defeitos graves. Uma peça é escolhida ao acaso. Calcule a probabilidade de que:
+
+
+a) ela não tenha defeitos graves;
+b) ela não tenha defeitos;
+c) ela ou seja boa ou tenha defeitos graves.
+
+
+7. Uma urna contém 5 bolas brancas e 6 pretas. Três bolas são retiradas. Calcular a probabilidade de:
+
+
+a) todas pretas;
+b) exatamente uma branca;
+c) ao menos uma preta.
+
+
+8. Numa classe existem 5 alunos do 4º ano, 4 do 2º e 3 do 3º ano. Qual a probabilidade de serem sorteados 2 alunos de 2º ano, 3 do 4º e 2 do 3º?

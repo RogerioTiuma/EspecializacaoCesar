@@ -1,0 +1,34 @@
+﻿Probabilidade e Estatística
+Atividade - Prob. Condicional e Teorema de Bayes.
+Prof. Everton Dias
+
+
+
+
+1. A probabilidade de que A resolva um problema é de ⅔, e a probabilidade de que B o resolva é de ¾. Se ambos tentarem independentemente, qual a probabilidade do problema não ser resolvido? E de ser resolvido?
+
+
+2. Considere k pessoas em uma sala. Qual a probabilidade de que pelo menos duas pessoas façam aniversário no mesmo dia? A partir de qual valor de k essa probabilidade é maior que 0,5?
+
+
+3. Temos cinco urnas, cada uma com 6 bolas. Duas dessas urnas (tipo C1) têm 3 bolas brancas, duas outras (tipo C2) têm duas bolas brancas, e a última urna (tipo C3) tem 6 bolas brancas. Escolhemos uma urna ao acaso e dela retiramos uma bola. Qual a probabilidade de a urna escolhida ser do tipo C3, sabendo-se que a bola sorteada é branca?
+
+
+4. Para selecionar seus funcionários, uma empresa oferece aos candidatos um curso de treinamento durante uma semana. No final do curso, eles são submetidos a uma prova e 25% são classificados como bons (B), 50% como médios (M) e os restantes como fracos (F). Para facilitar a seleção, a empresa pretende substituir o treinamento por um teste contendo questões referentes a conhecimentos gerais e específicos. Para isso, gostaria de conhecer qual a probabilidade de um indivíduo aprovado no teste ser considerado fraco, caso fizesse o curso. Assim, neste ano, antes do início do curso, os candidatos foram submetidos ao teste e receberam o conceito aprovado (A) ou reprovado (R). No final do curso, obtiveram-se as seguintes probabilidades condicionais:
+P(A|B) = 0,8
+P(A|M) = 0,5
+P(A|F) = 0,2.
+Determine a probabilidade do problema que a empresa deseja conhecer para substituir o treinamento por um teste.
+
+
+
+
+5. Uma caixa contém 3 tipos de lanternas descartáveis. A probabilidade de que uma lanterna do tipo 1 funcione por mais de 100 horas é igual a 0,7, e as probabilidades referentes às lanternas de tipo 2 e 3 correspondem, respectivamente, a 0,4 e 0,3. Suponha que 20% das lanternas na caixa sejam do tipo 1, 30% sejam do tipo 2, e 50% sejam do tipo 3.
+
+
+a) Qual é a probabilidade de que uma lanterna aleatoriamente escolhida funcione mais que 100 horas?
+
+
+
+
+b) Dado que uma lanterna tenha durado mais de 100h, qual é a probabilidade condicional de que ela seja uma lanterna do tipo 1, 2 e 3?

@@ -1,0 +1,38 @@
+﻿Probabilidade e Estatística
+Atividade Distribuição Amostral e Intervalo de Confiança
+Prof. Everton Dias
+        
+1. (Distribuição Amostral e Teorema do Limite Central) 
+Em um processo químico, a quantidade de um certo tipo de impureza na saída é difícil de controlar e é, portanto, uma variável aleatória. A especulação é que a quantidade média populacional de impurezas é de 0,20 gramas por grama de produção. Sabe-se que o desvio padrão é de 0,1 grama por grama. Um experimento é conduzido para obter mais informações sobre a especulação de que μ = 0,2. O processo é executado em escala de laboratório 50 vezes e a média da amostra acaba sendo 0,23 grama por grama. Comente sobre a especulação de que a quantidade média de impureza é de 0,20 grama por grama. Use o Teorema do Limite Central para justificar.
+
+
+
+
+2. (Distribuição amostral da diferença e da soma) 
+A e B fabricam dois tipos de cabos, com resistência média à ruptura de 4000 e 4500 lb e desvios padrão de 300 e 200 lb, respectivamente. Se 100 cabos da marca A e 50 cabos da marca B forem testados, qual é a probabilidade de que a resistência média à ruptura de B seja: (a) pelo menos 600 libras a mais do que A, (b) pelo menos 450 libras a mais do que A? 
+
+
+3. (Intervalo de Confiança) 
+Foram retiradas 25 peças da população diária de uma máquina, encontrando-se para uma medida uma média de 5,2 mm. Sabendo-se que as medidas têm distribuição normal com desvio-padrão populacional de 1,2 mm, construir intervalos de confiança para a média aos níveis de 90%, 95% e 99%.
+
+
+4. (Intervalo de Confiança)  
+As medidas dos diâmetros de uma amostra aleatória de 200 rolamentos feitos por certa máquina durante uma semana mostraram uma média de 0,824 polegadas e um desvio-padrão de 0,042 polegadas. Encontre limites:
+1. 95% de confiança para o diâmetro médio de todos os rolamentos.
+2. 99% de confiança para o diâmetro médio de todos os rolamentos.
+
+
+
+
+5. (Intervalo de Confiança) 
+Uma amostra de 10 medidas do diâmetro de uma esfera forneceu uma média de 4,38 polegadas e um desvio-padrão de 0,006 polegadas. Encontre os limites de:
+1. 95% de confiança para o verdadeiro diâmetro.
+2. 99% de confiança para o verdadeiro diâmetro.
+
+
+
+
+6. (Intervalo de Confiança) 
+Uma amostra de 150 lâmpadas da marca A forneceu uma duração média de 1400 horas com o desvio padrão de 120 horas. Uma amostra de 200 lâmpadas da marca B forneceu uma duração média de 1200 horas com um desvio padrão de 80 horas. Encontre os limites de confiança para as durações médias das populações das marcas A e B de:
+1. 95% de confiança
+2. 99% de confiança

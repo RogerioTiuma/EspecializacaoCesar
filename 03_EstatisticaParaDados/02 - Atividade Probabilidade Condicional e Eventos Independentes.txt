@@ -1,0 +1,46 @@
+﻿Probabilidade e Estatística
+Atividade Probabilidade Condicional e Eventos Independentes
+Prof. Everton Dias
+
+
+
+
+1. Uma bola de gude é extraída ao acaso de uma caixa contendo 10 vermelhas, 30 brancas, 20 azuis e 15 laranjas. Encontre a probabilidade de que ela seja:
+
+
+a) laranja ou vermelha, 
+b) não vermelha ou azul,
+c) não azul,
+d) branca,
+e) vermelha, branca ou azul.
+
+
+2. Uma caixa contém 2 bolas de gude vermelhas e 3 azuis. Duas são extraídas ao acaso (sem reposição), encontre a probabilidade de que:
+
+
+a) ambas sejam azuis,
+b) ambas sejam vermelhas,
+c) uma seja vermelha e uma azul.
+
+
+3. Encontre a probabilidade de se extrair 3 ases ao acaso de um baralho comum de 52 cartas se as cartas são:
+
+
+a) repostas,
+b) não repostas.
+
+
+4. Se pelo menos uma criança em uma família com dois filhos é um menino, qual é a probabilidade de que os dois filhos sejam meninos?
+
+
+
+
+5. A caixa I contém 3 bolas vermelhas e 5 brancas, enquanto a caixa II contém 4 bolas vermelhas e 2 brancas. Uma bola é escolhida ao acaso da primeira caixa e colocada na segunda caixa sem observar a sua cor. Então, uma bola é extraída da segunda caixa. Encontre a probabilidade de que ela seja branca. 
+
+
+
+
+Questão Extra:
+
+
+Uma caixa contém 3 bolas de gude azuis e 2 vermelhas, enquanto que a outra caixa contém 2 bolas de gude azuis e 5 vermelhas. Uma bola é extraída ao acaso de uma das caixas e se verifica ser azul. Qual a probabilidade de que ela tenha sido extraída da primeira caixa?

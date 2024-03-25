@@ -1,0 +1,54 @@
+﻿Probabilidade e Estatística
+Avaliação I
+Prof. Everton Dias
+Aluno: ____________________________________________________
+
+
+Atenção:
+• Esta atividade valerá de 0 (zero) até 1 (um) ponto para compor a nota da Avaliação.
+• As questões deverão conter a resolução. Todas as questões devem ser respondidas manualmente, explicando o que e como foi realizada, com clareza e detalhes.
+• Identificada a cópia de qualquer questão, seja com relação a outro aluno ou de alguma
+outra fonte, TODA a atividade será descartada
+
+
+1. A urna I contém 3 bolas de gude vermelhas e 2 bolas de gude azuis, enquanto que a urna II contém 2 bolas de gude vermelhas e 8 bolas de gude azuis. Uma moeda honesta é lançada. Se a moeda der cara, uma bola de gude é escolhida da urna I; se der coroa, uma bola de gude é escolhida da urna II. Encontre a probabilidade de que uma bola de gude azul seja escolhida. Explique o desenvolvimento do raciocínio, além do cálculo.
+
+
+
+
+2. Suponha que, no exercício anterior, a pessoa que lançou a moeda não revele se deu cara ou coroa (neste caso, a urna da qual a bola de gude azul foi retirada não é conhecida), mas revele que uma bola de gude azul foi escolhida. Qual a probabilidade de que a urna I foi escolhida, ou seja, que a moeda deu cara? Qual a diferença entre o raciocínio da questão anterior para o desenvolvimento desta? 
+
+
+
+
+3. Um jogador de pôquer tem as cartas 4,5,6,8,10. Ele deseja descartar a 10 e substituir por uma outra carta que ele espera ser a 7. Qual é a probabilidade de que ele irá ter sucesso, assumindo que outros três jogadores tenham:  
+
+
+a) um único 7, 
+b) dois 7s, 
+c) três 7s, 
+d) nenhum 7.
+
+
+4. A produção de uma determinada peça eletrônica é disponibilizada em lotes, cada um com 20 unidades da peça. Suponha que 60% dos lotes não contenham peça defeituosa, 30% contém uma única peça defeituosa, e 10% contenham duas peças defeituosas. Um lote é selecionado, duas peças são aleatoriamente testadas e nenhuma delas é defeituosa: 
+
+
+a) qual a probabilidade que nenhuma peça seja defeituosa nesse lote?; 
+
+
+b) qual a probabilidade de que uma peça defeituosa exista nesse lote?; 
+
+
+
+
+5. No lançamento simultâneo de dois dados, considere as seguintes variáveis aleatórias: 
+
+
+A = número de pontos obtidos no primeiro dado
+B = número de pontos obtidos no segundo dado
+
+
+a) Construir a distribuição de probabilidade da variável Z = A + B;
+
+
+b) Construa a função repartição da variável Z.

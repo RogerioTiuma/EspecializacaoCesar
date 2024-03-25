@@ -1,0 +1,39 @@
+﻿Probabilidade e Estatística
+Atividade Distribuição de Probabilidades (Discreta)
+Prof. Everton Dias
+
+
+
+
+1. Uma moeda é jogada 10 vezes. Calcular as seguintes probabilidades:
+
+
+a) de ocorrer 6 caras
+b) de dar pelo menos duas caras
+c) de não dar nenhuma coroa
+
+
+2. Admitindo-se que os nascimentos de meninos e meninas sejam iguais, calcular a probabilidade de um casal com 6 filhos ter 4 filhos homens e 2 mulheres.
+
+
+3. Em 320 famílias com 4 crianças cada uma, quantas se esperaria que tivessem:
+
+
+a) nenhuma menina
+b) 3 meninos
+c) 4 meninos
+
+
+4. Jogue um dado 8 vezes. Calcule a probabilidade de aparecer 2 números 2; 2 números 5 e os demais números, uma vez.
+
+
+5. As lâmpadas coloridas produzidas por uma fábrica são 60% verdes, 30% azuis e 10% amarelas. Em 5 lâmpadas, encontre a probabilidade de que 2 sejam verdes, 1 azul e 2 amarelas.
+
+
+6. Uma fábrica de pneus verificou que ao testar seus pneus nas pistas, havia em média um estouro de pneu a cada 5000 km. Qual a probabilidade que num teste de 3000 km haja no máximo um pneu estourado? 
+
+
+7. Certo posto de bombeiros recebe em média 3 chamadas por dia. Calcule a probabilidade de receber 4 chamadas num dia.
+
+
+8. Na pintura de paredes aparecem defeitos em média na proporção de 1 defeito por metro quadrado. Qual a probabilidade de aparecerem 3 defeitos numa parede de 2x2m?

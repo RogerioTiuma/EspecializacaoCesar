@@ -1,0 +1,79 @@
+﻿Probabilidade e Estatística
+Avaliação 
+Prof. Everton Dias
+
+
+Atenção:
+• Esta atividade valerá de 0 (zero) até 8 (oito) pontos para compor a nota da Avaliação, juntamente com as Atividades Avaliativas (até 2,0 pontos).
+• Os arquivos de implementação deverão ser submetidos no formulário do Classroom com a extensão ipynb e com nome será formado pelas iniciais do e-mail em minúsculas. Exemplo: considerando que o e-mail é etgdb@cesar.school, o arquivo será etgdb.ipynb Qualquer arquivo enviado fora desse padrão será automaticamente descartado.
+• Desenvolva a implementação no Google Colab;
+• Identificada a cópia de qualquer questão, seja com relação a outro aluno ou de alguma outra fonte, TODA a atividade será descartada
+
+
+* Baseado no exemplo apresentado em sala, realize a exploração dos dados utilizando (2,0)
+
+
+• probabilidade simples
+• probabilidades condicional
+• probabilidade com o teorema de Bayes
+• definição de novas variáveis aleatórias
+• função repartição (cumulativa)
+
+
+* Estatística Descritiva (2,0)
+
+
+Explore os seu conjunto de dados utilizando:
+
+
+- Box plot
+- Histrograma
+- Scatter plot
+- Mapa de calor para correlação (heatmap)
+
+
+
+
+
+
+
+
+
+
+
+
+* Distribuições Amostrais (2,0)
+
+
+Seguindo o exemplo de distribuição amostral das médias apresentado em sala de aula, crie distribuições amostrais das médias para um evento da sua base de dados, variando o tamanho das amostras a partir de 1 até no mínimo em três diferentes tipos da amostra em relação à população. Apresente gráficos mostrando a evolução da distribuição amostral da média à medida que o tamanho da amostra aumenta. Interprete os resultados obtidos.
+
+
+* Intervalo de Confiança (0,5 EXTRA)
+
+
+Selecione uma variável aleatória discreta ou contínua que represente uma amostra e encontre o Intervalo de Confiança (IC) de 90% e 95% para a média da população.
+
+
+* Apresentação (2,0)
+
+
+A apresentação deverá ser no formato de PITCH, tendo duração de 5 a 10 minutos, no qual o grupo deverá construir um slide sobre os tópicos abordados. Na apresentação, você deverá descrever os seguintes pontos:
+
+1- Cada um dos itens citados anteriormente, de uma forma resumida e objetiva. 
+
+
+2- Apresentar comparações feitas a partir das observações estatísticas do dataset.
+
+
+* O Slide da apresentação deverá ser submetido no forms junto com o notebook (colab).
+
+
+
+
+Para cada uma, justifique a importância da informação adquirida, e discorra sobre a mesma, comparando, sempre que possível, com dados obtidos através de uma pesquisa na literatura, citando a referência utilizada. 
+
+
+Explorações dos dados sem justificativa, irrelevantes e/ou sem discussão apropriada, serão desconsideradas na avaliação da unidade. 
+
+
+Identificada a cópia com relação a materiais de terceiros, TODA a exploração será descartada.

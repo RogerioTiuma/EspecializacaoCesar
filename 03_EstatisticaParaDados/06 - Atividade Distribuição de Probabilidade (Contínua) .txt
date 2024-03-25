@@ -1,0 +1,34 @@
+﻿Probabilidade e Estatística
+Atividade - Distribuição de Probabilidade (Contínua)
+Prof. Everton Dias
+
+
+
+
+1. Um ponto é escolhido ao acaso no segmento de reta [1, 4]. Calcular:
+1. A probabilidade de que o ponto escolhido esteja entre 2 e 3;
+2. Entre 0,5 e 2,5;
+3. Seja exatamente o 2.
+
+
+2. A duração de um certo componente eletrônico tem média 850 dias e desvio-padrão 45 dias. Calcular a probabilidade desse componente durar:
+1. Entre 700 e 1000 dias;
+2. Mais que 800 dias;
+3. Menos que 750 dias;
+4. Exatamente 1000 dias.
+
+
+3. Os pesos de 600 estudantes são normalmente distribuídos com média 65,3 kg e desvio padrão de 5,5 kg. Encontre o número de alunos que pesam:
+1. Entre 60 e 70 kg;
+2. Mais que 63,2 kg.
+
+
+4. Uma fábrica de pneumáticos fez um teste para medir o desgaste de seus pneus e verificou que ele obedecia a uma distribuição normal, de média 48000 km e desvio-padrão 2000 km. Calcular a probabilidade de um pneu escolhido ao acaso:
+1. Dure mais que 46000 km;
+2. Dure entre 45000 e 50000 km.        
+
+
+5. O salário semanal dos operários industriais são distribuídos normalmente em torno de uma média de R$180,00 com desvio-padrão de R$25,00. Pede-se:
+1. Encontre a probabilidade de um operário ter salário semanal situado entre R$150,00 e R$178,00.        
+        
+2. Dentro de que desvios de ambos os lados da média, cairão 96% dos salários?
